@@ -1,0 +1,11 @@
+commit e4b678b6b30ae8b9013dcacf867f053dd95950cc
+Author: Sebastian Arellanes <seb02tian20@gmail.com>
+Date:   Thu Sep 7 13:30:00 2023 -0600
+
+    Titulo y encabezado
+
+commit 1b057f92093f559a680edf8cc786b93968d70ea4
+Author: Sebastian Arellanes <seb02tian20@gmail.com>
+Date:   Thu Sep 7 13:25:01 2023 -0600
+
+    Commit inicial
