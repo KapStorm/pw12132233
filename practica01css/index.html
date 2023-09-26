@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="./img/HTML5logo.svg" type="image/svg" />
     <title>Práctica 01 HTML + CSS</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./css/estilos.css" />
   </head>
   <body>
     <header>
       <img src="./img/resplandor.png" alt="resplandor" />
-      <img src="./img/logo.png" alt="logo" />
+      <img src="./img/logo.png" alt="logo empresa" id="logo" />
 
       <nav>
         <ul>
@@ -30,12 +30,12 @@
     </header>
 
     <main>
-      <section>
+      <section id="seccion01">
         <article>
           <img src="./img/slide2.jpg" alt="Banner" />
         </article>
       </section>
-      <section>
+      <section id="seccion02">
         <article>
           <img src="./img/separador.jpg" alt="Separador" />
           <p>Una sección</p>
@@ -49,7 +49,7 @@
         </article>
         <article>
           <img src="./img/separador.jpg" alt="Separador" />
-          <p>Otra sección</p>
+          <span class="otraSeccion nito">Otra sección</span>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Necessitatibus dolore cumque totam accusantium est quos, veritatis
@@ -60,7 +60,7 @@
         </article>
         <article>
           <img src="./img/separador.jpg" alt="Separador" />
-          <p>Un video</p>
+          <span class="otraSeccion nito">Un video</span>
           <img src="./img/video.jpg" alt="Video" />
         </article>
       </section>
