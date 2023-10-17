@@ -76,7 +76,8 @@ hr {
 }
 
 .info>article {
-  width: 60%;
+  width: 80%;
+  margin-right: 32px;
 }
 
 .info>article>picture {
@@ -90,7 +91,7 @@ hr {
 }
 
 main>aside {
-  width: 40%;
+  width: 20%;
 }
 
 .titulo {
